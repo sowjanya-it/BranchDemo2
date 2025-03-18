@@ -1,2 +1,2 @@
 Create file3 in branch1
-modified the file in main branch
+modified the file in main branch and later modified the file in branch b2
