@@ -1,1 +1,2 @@
-created file2 in main at github
+created file2 in main at github 
+modified file in branch2
